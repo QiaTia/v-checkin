@@ -1,0 +1,22 @@
+{
+  "name": "v-checkin",
+  "version": "1.0.0",
+  "description": "腾讯视频自动签到脚本",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QiaTia/v-checkin.git"
+  },
+  "author": "QiaTia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QiaTia/v-checkin/issues"
+  },
+  "homepage": "https://github.com/QiaTia/v-checkin#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
