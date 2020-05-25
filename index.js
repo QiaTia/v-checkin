@@ -11,25 +11,6 @@ const _key = ''
 const ref_url = ""
 const _cookie = ""
 const auth = getAuth()
-// {
-//   "tvfe_boss_uuid":"*****",
-//   "video_guid":"*****",
-//   "video_platform":"2",
-//   "pgv_pvid":"*****",
-//   "pgv_info":"ssid=*****",
-//   "pgv_pvi":"*****",
-//   "pgv_si":"*****",
-//   "_qpsvr_localtk":"*****",
-//   "RK":"*****",
-//   "ptcz":"*****",
-//   "ptui_loginuin":"*****",
-//   "main_login":"qq",
-//   "vqq_access_token":"*****",
-//   "vqq_appid":"*****",
-//   "vqq_openid":"*****",
-//   "vqq_vuserid":"*****",
-//   "vqq_vusession":"*****"
-// }
 
 const axios = require('axios')
 const time = new Date().toLocaleDateString()
